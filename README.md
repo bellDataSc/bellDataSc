@@ -7,4 +7,4 @@ Sobre mim :
 
 🎓 Publicidade/Marketing
 
-🌱 Curiosidades: Vegetariana, Fotografa, não passa um dia sem Café!.
+🌱 Curiosidades: Vegetariana, Fotografa, não passa um dia sem Café!
