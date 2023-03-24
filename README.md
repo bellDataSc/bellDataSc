@@ -1,5 +1,5 @@
 Sobre mim :
-👋 Pode me chamar de Bel, tenho 23 anos.
+👋 Pode me chamar de Bel, tenho 24 anos.
 
 💼 Analista de MKT / Trade MKT / Data Science.
 
