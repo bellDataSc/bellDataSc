@@ -3,8 +3,4 @@ Sobre mim :
 
 💼 Analista de MKT / Trade MKT / Data Science.
 
-🎓 Cursando Data Science & Machine Learning.
-
-🎓 Publicidade/Marketing
-
-🌱 Curiosidades: Vegetariana, Fotografa, não passa um dia sem Café!
+🎓 Publicidade  /  Marketing / Dados.
