@@ -1,6 +1,6 @@
 Sobre mim :
-👋 Pode me chamar de Bel, tenho 24 anos.
+👋 Pode me chamar de Bel, tenho 25 anos.
 
-💼 Analista de MKT / Trade MKT / Data Science.
+💼 Marketing Planning | Data Science | Project Analyst | Trade Marketing | Data Lake
 
-🎓 Publicidade  /  Marketing / Dados.
+🎓 Publicidade / Dados.
