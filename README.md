@@ -1,4 +1,5 @@
-👋  Olá, sou a Bel, tenho uma experiência multidisciplinar em análise e gestão de dados, com foco em projetos de grande impacto no setor público e privado.
+👋  Olá, sou a Bel, tenho uma experiência multidisciplinar em análise e gestão de dados, com foco em projetos de grande impacto no setor público.
+      - Trabalho como Analista de Dados Tecnica para o Estado de São Paulo. Anteriormente estava em projetos para o Estado de Minas Gerais.
 
 💼 Áreas de Especialização:
 
