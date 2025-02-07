@@ -12,6 +12,7 @@ Um pouco mais sobre mim:
 📚 Tenho certificações em Finanças, Ciência de Dados, Power BI e Publicidade
 
 📝 Escrevo artigos sobre programação e tópicos acadêmicos em publicidade e administração no Medium
+
 https://medium.com/@belgon
 
 💡 Sou entusiasta de educação, tecnologia e da tomada de decisões orientadas por dados no setor público
@@ -22,4 +23,5 @@ Conecte-se comigo:
 📫 Como me encontrar?
 
 isabel.gon.adm@gmail.com
+
 https://www.linkedin.com/in/belcruz/
