@@ -1,14 +1,16 @@
-👋  Olá, sou a Bel, tenho uma experiência multidisciplinar em análise e gestão de dados, com foco em projetos de grande impacto no setor público.
-      - Trabalho como Analista de Dados Tecnica para o Estado de São Paulo. Anteriormente estava em projetos para o Estado de Minas Gerais.
+Ei, meu nome é Bel
+Sou Analista de Dados especializada em Finanças Públicas
 
-💼 Áreas de Especialização:
+Um pouco mais sobre mim:
+🌱 Atualmente, estou aprofundando meus conhecimentos em finanças públicas, orçamento e análise de dados tributários
+💬 Pergunte-me sobre Python, SQL, Power BI, Execução Orçamentária no setor público e automação de processos
+📊 Trabalho com centralização de dados no Oracle, SIGEO (Sistema de Informações Gerenciais da Execução Orçamentária - Ministério da Fazenda), SharePoint e automação com Python, SQL e Jupyter Notebooks. Transformo esses dados em Dashboards para relatórios, análises e insights
+📚 Tenho certificações em Finanças, Ciência de Dados, Power BI e Publicidade
+📝 Escrevo artigos sobre programação e tópicos acadêmicos em publicidade e administração no Medium
+https://medium.com/@belgon
+💡 Sou entusiasta de educação, tecnologia e da tomada de decisões orientadas por dados no setor público
 
-Data Lake & Engenharia de Dados: Experiência na organização, gestão e processamento de grandes volumes de dados.
-
-Ciência de Dados: Aplicação de técnicas de modelagem e análise preditiva para gerar insights e apoiar decisões estratégicas.
-
-Análise e Gestão de Projetos: Coordenação de projetos em Marketing e Planejamento, com foco em eficiência e resultados mensuráveis.
-
-🎓 Minha formação acadêmica é diversificada, começando com uma graduação em Publicidade e um tecnólogo em Marketing, o que me proporcionou uma base sólida em comunicação e estratégias de mercado. Posteriormente, me especializei em Data Science e Machine Learning, desenvolvendo habilidades avançadas na análise de dados e aprendizado de máquina. Essa trajetória reflete minha evolução constante e foco na utilização de dados para orientar decisões estratégicas e impulsionar a inovação.
-  
-🔗 Aqui, você encontra projetos que refletem minha habilidade em transformar dados em soluções práticas e orientadas para resultados.
+Conecte-se comigo:
+📫 Como me encontrar?
+isabel.gon.adm@gmail.com
+https://www.linkedin.com/in/belcruz/
