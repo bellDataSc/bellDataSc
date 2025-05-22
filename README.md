@@ -1,29 +1,16 @@
-Ei, pode me chamar de Bel
+**Dados com foco em Engenharia de Dados e BI.**
+Atuo na integração e modelagem de dados a partir de diversas fontes, como bancos relacionais (Oracle), sistemas governamentais (SIGEO/Ministério da Fazenda) e plataformas colaborativas (SharePoint). Desenvolvo pipelines de dados com ETL/ELT em Python e SQL, automatizados em Jupyter Notebooks, com experiência em dados estruturados, semiestruturados e soluções em nuvem (Azure). Crio dashboards no Power BI, traduzindo dados em insights para a tomada de decisão.
 
-🚀 Analista de Dados com foco em Engenharia de Dados e BI
-Atuo na modelagem e centralização de dados a partir de múltiplas fontes, incluindo bancos relacionais (Oracle), sistemas governamentais (SIGEO - Sistema de Informações Gerenciais da Execução Orçamentária, Ministério da Fazenda), e ambientes colaborativos (SharePoint).
-
-🔧 Participo ativamente da construção e orquestração de pipelines de dados, aplicando práticas de ETL/ELT com Python (Pandas, NumPy, pyodbc), SQL, e automação em Jupyter Notebooks. Trabalho com ingestão, tratamento e padronização de dados estruturados e semiestruturados.
-
-☁️ Experiência com Data Lakes e ambientes em nuvem, com ênfase em soluções da Azure (Azure Data Factory, Azure Blob Storage e Azure SQL Database), garantindo escalabilidade, versionamento e governança dos dados.
-
-📊 Desenvolvo dashboards e relatórios interativos em Power BI, transformando dados complexos em insights acionáveis para gestores e tomadores de decisão no setor público.
-
-📚 Certificações em Ciência de Dados, Finanças Públicas, Power BI e Comunicação.
-✍️ Autora de artigos técnicos e acadêmicos sobre programação, dados e comunicação estratégica no Medium:
-🔗 https://medium.com/@belgon
+- Certificações em Ciência de Dados, Finanças Públicas, Power BI e Comunicação.
+- Autora de artigos técnicos e acadêmicos sobre programação, dados e comunicação estratégica no Medium:
+  - https://medium.com/@belgon
 
 Um pouco mais sobre mim:
 
 🌱 Atualmente, estou aprofundando meus conhecimentos em finanças, orçamento e análise de dados tributários
 
-💬 Pergunte-me sobre Python, SQL, Power BI, Execução Orçamentária no setor público e automação de processos
-
 💡 Sou entusiasta de educação, tecnologia e da tomada de decisões orientadas por dados.
 
-
-Conecte-se comigo:
-📫 Como me encontrar?
+📫 Conecte-se comigo: 
 isabel.gon.adm@gmail.com
 
-https://www.linkedin.com/in/belcruz/
