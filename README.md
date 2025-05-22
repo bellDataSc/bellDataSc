@@ -1,4 +1,5 @@
 **Dados com foco em Engenharia de Dados e BI.**
+
 Atuo na integração e modelagem de dados a partir de diversas fontes, como bancos relacionais (Oracle), sistemas governamentais (SIGEO/Ministério da Fazenda) e plataformas colaborativas (SharePoint). Desenvolvo pipelines de dados com ETL/ELT em Python e SQL, automatizados em Jupyter Notebooks, com experiência em dados estruturados, semiestruturados e soluções em nuvem (Azure). Crio dashboards no Power BI, traduzindo dados em insights para a tomada de decisão.
 
 - Certificações em Ciência de Dados, Finanças Públicas, Power BI e Comunicação.
