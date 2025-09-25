@@ -1,4 +1,4 @@
-# Isabel Cruz | Data Engineer | Government Analytics | Building Open Source Tools for Public Data
+# Isabel Cruz - Data Engineer | Government Analytics | Building Open Source Tools for Public Data
 
 ## About Me | Sobre Mim
 
