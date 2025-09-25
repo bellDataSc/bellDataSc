@@ -1,10 +1,4 @@
-# Isabel Cruz | Data Engineer & Analytics Specialist 
-
-<div align="center">
-  
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=2E96F7&center=true&vCenter=true&width=600&lines=Data+Engineer+%7C+Business+Intelligence;Machine+Learning+%7C+Cloud+Solutions;Transforming+Data+into+Insights)
-
-</div>
+# Isabel Cruz | Data Engineer | Government Analytics | Building Open Source Tools for Public Data
 
 ## About Me | Sobre Mim
 
