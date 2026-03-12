@@ -22,10 +22,13 @@ Financial Cybersecurity
 
 ## Featured Work
 
-* **[ETL Project with Python and Google BigQuery](https://github.com/bellDataSc/ETL-Project-with-Python-and-Google-BigQuery)**
-  Scalable cloud-based data extraction, transformation, and loading workflows
-* **[State of Sao Paulo Databricks and dbt project for data analytics](https://github.com/bellDataSc/State-of-Sao-Paulo-databricks-and-dbt-project-for-data-analytics)**
-  Structured data modeling and advanced analytics framework for public sector data
+* **[ETL Project with Python and Google BigQuery](https://github.com/bellDataSc/ETL-PROJECT-PYTHON-GCP)**
+
+  This project contains a production-ready ETL pipeline built in Python and designed to run on Google Cloud Platform using BigQuery as the main storage layer. 
+
+* **[SP Government Budget Analytics](https://github.com/bellDataSc/sp-gov-budget-analytics)**
+
+  In this repository, I documented an analytical engineering framework designed for public sector financial data. The architecture uses SQL and dbt (Data Build Tool) to transform raw financial records from the Ministry of Finance's Oracle database into a dimensional model. During my time working for the São Paulo State Government, I developed and applied this data engineering methodology to monitor public spending, detect financial anomalies, and optimize processes within the Budget Planning Management.
 
 ## Experience
 
