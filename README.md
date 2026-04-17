@@ -34,4 +34,4 @@ Financial Cybersecurity
 
 Currently focused on data engineering and automation at FGV IBRE, where I develop internal platforms (such as the SPR system) to streamline data analysis. I am dedicated to building production-ready solutions that bridge the gap between raw economic data and strategic decision-making.
 
-[LinkedIn](https://linkedin.com/in/isabel-cruz) • [Medium](https://belgon.medium.com/)
+[LinkedIn](https://www.linkedin.com/in/belcruz/) • [Medium](https://belgon.medium.com/)
