@@ -36,6 +36,8 @@ So that's what I'm building now, and I'm doing it in public, including the parts
 
 I'm also moving toward backend, with **PHP and Drupal**. Partly because structured content and reliable interfaces are the same problem I already solve from the data side, just approached from the other end. Partly because Drupal was born in Antwerp and now carries a good share of public-sector web in Europe and Canada — and public-sector data is where I already know my way around.
 
+*J'apprends aussi le français :) ... C'est sympa de regarder des vlogs en français, surtout depuis mon voyage.*
+
 ---
 
 ## Tools
